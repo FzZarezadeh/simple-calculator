@@ -1,0 +1,10 @@
+I:\دانشگاه\t1-barnameSazi\Simple calculator\bin\Debug\Simple calculator.exe.config
+I:\دانشگاه\t1-barnameSazi\Simple calculator\bin\Debug\Simple calculator.exe
+I:\دانشگاه\t1-barnameSazi\Simple calculator\bin\Debug\Simple calculator.pdb
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple calculator.csprojAssemblyReference.cache
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple_calculator.Form1.resources
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple_calculator.Properties.Resources.resources
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple calculator.csproj.GenerateResource.cache
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple calculator.csproj.CoreCompileInputs.cache
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple calculator.exe
+I:\دانشگاه\t1-barnameSazi\Simple calculator\obj\Debug\Simple calculator.pdb
