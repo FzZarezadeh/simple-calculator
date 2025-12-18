@@ -1,10 +1,7 @@
 
 
-![آیکون ماشین‌حساب ساده](https://copilot.microsoft.com/th/id/BCO.6c4f8b6b-5a3e-4e8f-9d3f-2e2c4e9f4b1a.png)
 
-
-
-🧮 Simple Calculator – C# Windows Forms App
+# Simple Calculator – C# Windows Forms App
 
 A basic calculator application built with C# and Windows Forms. This project demonstrates object-oriented programming, event-driven design, and user interface handling in .NET.
 
